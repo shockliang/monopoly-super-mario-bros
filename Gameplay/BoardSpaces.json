@@ -1,0 +1,148 @@
+{
+  "Spaces": [
+    {
+      "Id": 0,
+      "Type": "GO"
+    },
+    {
+      "Id": 1,
+      "Type": "Property",
+      "PropertyId": 0
+    },
+    {
+      "Id": 2,
+      "Type": "WarpPipe"
+    },
+    {
+      "Id": 3,
+      "Type": "Property",
+      "PropertyId": 1
+    },
+    {
+      "Id": 4,
+      "Type": "CoinBlack"
+    },
+    {
+      "Id": 5,
+      "Type": "Property",
+      "PropertyId": 2
+    },
+    {
+      "Id": 6,
+      "Type": "SuperStar"
+    },
+    {
+      "Id": 7,
+      "Type": "Property",
+      "PropertyId": 3
+    },
+    {
+      "Id": 8,
+      "Type": "JustVisting"
+    },
+    {
+      "Id": 9,
+      "Type": "Property",
+      "PropertyId": 4
+    },
+    {
+      "Id": 10,
+      "Type": "WarpPipe"
+    },
+    {
+      "Id": 11,
+      "Type": "Property",
+      "PropertyId": 5
+    },
+    {
+      "Id": 12,
+      "Type": "Thwomp"
+    },
+    {
+      "Id": 13,
+      "Type": "Property",
+      "PropertyId": 6
+    },
+    {
+      "Id": 14,
+      "Type": "SuperStar"
+    },
+    {
+      "Id": 15,
+      "Type": "Property",
+      "PropertyId": 7
+    },
+    {
+      "Id": 16,
+      "Type": "FreeParking"
+    },
+    {
+      "Id": 17,
+      "Type": "Property",
+      "PropertyId": 8
+    },
+    {
+      "Id": 18,
+      "Type": "WarpPipe"
+    },
+    {
+      "Id": 19,
+      "Type": "Property",
+      "PropertyId": 9
+    },
+    {
+      "Id": 20,
+      "Type": "CoinBlack"
+    },
+    {
+      "Id": 21,
+      "Type": "Property",
+      "PropertyId": 10
+    },
+    {
+      "Id": 22,
+      "Type": "SuperStar"
+    },
+    {
+      "Id": 23,
+      "Type": "Property",
+      "PropertyId": 11
+    },
+    {
+      "Id": 24,
+      "Type": "GoToJail"
+    },
+    {
+      "Id": 25,
+      "Type": "Property",
+      "PropertyId": 12
+    },
+    {
+      "Id": 26,
+      "Type": "WarpPipe"
+    },
+    {
+      "Id": 27,
+      "Type": "Property",
+      "PropertyId": 13
+    },
+    {
+      "Id": 28,
+      "Type": "Thwomp"
+    },
+    {
+      "Id": 29,
+      "Type": "Property",
+      "PropertyId": 14
+    },
+    {
+      "Id": 30,
+      "Type": "SuperStar"
+    },
+    {
+      "Id": 31,
+      "Type": "Property",
+      "PropertyId": 15
+    }
+  ]
+}
