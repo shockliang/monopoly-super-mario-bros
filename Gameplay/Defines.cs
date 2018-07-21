@@ -1,5 +1,17 @@
 namespace Monopoly.SuperMarioBros.Gameplay
 {
+    public enum BoardSpaceType: int 
+    {
+        GO = 0, 
+        Property,
+        WarpPipe,
+        CoinBlack,
+        SuperStar,
+        Thwomp,
+        JustVisting,
+        GoToJail,
+        FreeParking
+    }
     public enum PowerUpType : int
     {
         RedShell = 0,
@@ -31,6 +43,7 @@ namespace Monopoly.SuperMarioBros.Gameplay
         Green,
         DarkBlue
     }
+    
     public class Defines
     {
 
