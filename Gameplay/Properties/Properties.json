@@ -1,0 +1,132 @@
+{
+  "Properties": [
+    {
+      "Id": 0,
+      "Name": "Acorn Plains",
+      "Colour": "Brown",
+      "Rent": 1,
+      "RentWithColourSet": 2,
+      "Point": 10
+    },
+    {
+      "Id": 1,
+      "Name": "Yoshi's Hill",
+      "Colour": "Brown",
+      "Rent": 1,
+      "RentWithColourSet": 2,
+      "Point": 10
+    },
+    {
+      "Id": 2,
+      "Name": "Layer Cake Desert",
+      "Colour": "LightBlue",
+      "Rent": 1,
+      "RentWithColourSet": 2,
+      "Point": 10
+    },
+    {
+      "Id": 3,
+      "Name": "Stone-Eye Zone",
+      "Colour": "LightBlue",
+      "Rent": 1,
+      "RentWithColourSet": 2,
+      "Point": 10
+    },
+    {
+      "Id": 4,
+      "Name": "Sparkling Waters",
+      "Colour": "Magenta",
+      "Rent": 2,
+      "RentWithColourSet": 4,
+      "Point": 20
+    },
+    {
+      "Id": 5,
+      "Name": "Dragoneel's Sundersea Grotto",
+      "Colour": "Magenta",
+      "Rent": 2,
+      "RentWithColourSet": 4,
+      "Point": 20
+    },
+    {
+      "Id": 6,
+      "Name": "Frosted Glacier",
+      "Colour": "Orange",
+      "Rent": 2,
+      "RentWithColourSet": 4,
+      "Point": 20
+    },
+    {
+      "Id": 7,
+      "Name": "Cooligan Fields",
+      "Colour": "Orange",
+      "Rent": 2,
+      "RentWithColourSet": 4,
+      "Point": 20
+    },
+    {
+      "Id": 8,
+      "Name": "Soda Jungle",
+      "Colour": "Red",
+      "Rent": 3,
+      "RentWithColourSet": 6,
+      "Point": 30
+    },
+    {
+      "Id": 9,
+      "Name": "Painted Swampland",
+      "Colour": "Red",
+      "Rent": 3,
+      "RentWithColourSet": 6,
+      "Point": 30
+    },
+    {
+      "Id": 10,
+      "Name": "Rock-Candy Mines",
+      "Colour": "Yellow",
+      "Rent": 3,
+      "RentWithColourSet": 6,
+      "Point": 30
+    },
+    {
+      "Id": 11,
+      "Name": "Waddlewing's Nest",
+      "Colour": "Yellow",
+      "Rent": 3,
+      "RentWithColourSet": 6,
+      "Point": 30
+    },
+    {
+      "Id": 12,
+      "Name": "Meringue Clouds",
+      "Colour": "Green",
+      "Rent": 4,
+      "RentWithColourSet": 8,
+      "Point": 40
+    },
+    {
+      "Id": 13,
+      "Name": "Switchback Hill",
+      "Colour": "Green",
+      "Rent": 4,
+      "RentWithColourSet": 8,
+      "Point": 40
+    },
+    {
+      "Id": 14,
+      "Name": "Peach's Castle",
+      "Colour": "DarkBlue",
+      "Rent": 5,
+      "RentWithColourSet": 10,
+      "Point": 50
+    },
+    {
+      "Id": 15,
+      "Name": "Bowser's Castle",
+      "Colour": "DarkBlue",
+      "Rent": 5,
+      "RentWithColourSet": 10,
+      "Point": 50
+    }
+  ] 
+}
